@@ -1,0 +1,37 @@
+.table-container {
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+}
+tbody {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.row {
+  margin: auto;
+  padding: 5px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.row img {
+  width: 70px;
+}
+.incre-decre-btn {
+  display: flex;
+  gap: 5px;
+  justify-content: center;
+}
+.cart_container {
+  display: "flex";
+  justify-content: center;
+  align-items: "center";
+  flex-wrap: wrap;
+}
+/* @media screen and (max-width: 700px) {
+  .incre-decre-btn {
+    flex-direction: column;
+    gap: 2px;
+  }
+} */

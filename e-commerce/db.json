@@ -1,0 +1,94 @@
+{
+  "data": [
+    {
+      "name": "anita",
+      "email": "anita@gmail.com",
+      "mobile": 8109466308,
+      "city": "pune",
+      "pincode": 454565,
+      "states": "maharastra",
+      "id": "3a35"
+    },
+    {
+      "id": "7dbd",
+      "name": "ambika",
+      "email": "ambikasoni1712@gmail.com",
+      "mobile": "8109466304",
+      "city": "Bhopal,Madhya Pradesh,India",
+      "pincode": "462001",
+      "states": "madhya pradash"
+    },
+    {
+      "id": "55f5",
+      "name": "latasha",
+      "email": "latasha@gmail.com",
+      "mobile": "8109466305",
+      "city": "pune",
+      "pincode": "454689",
+      "states": "maharstra"
+    },
+    {
+      "id": "28ad",
+      "name": "anu",
+      "email": "anu@gmail.com",
+      "mobile": 7889455612,
+      "city": "pune",
+      "pincode": 784578,
+      "states": "maharastra"
+    },
+    {
+      "id": "eccb",
+      "name": "akansha",
+      "email": "akansha@gmail.com",
+      "mobile": "8978455645",
+      "city": "Gwalior",
+      "pincode": "745651",
+      "states": "madhya pradash"
+    },
+    {
+      "id": "a193",
+      "name": "anu",
+      "email": "anu@gmail.com",
+      "mobile": 7889455612,
+      "city": "pune",
+      "pincode": 784578,
+      "states": "maharastra"
+    },
+    {
+      "id": "05e2",
+      "name": "anu",
+      "email": "anu@gmail.com",
+      "mobile": 7889455612,
+      "city": "pune",
+      "pincode": 784578,
+      "states": "maharastra"
+    },
+    {
+      "id": "a2d9",
+      "name": "manu",
+      "email": "manu@gmail.com",
+      "mobile": 7845784578,
+      "city": "dewas",
+      "pincode": 784578,
+      "states": "madhaya pradesh"
+    },
+    {
+      "id": "fba9",
+      "name": "barkha",
+      "email": "barkha@gmail.com",
+      "mobile": "7845124578",
+      "city": "bhopal",
+      "pincode": "457845",
+      "states": "madhya pradash"
+    },
+    {
+      "id": "2111",
+      "name": "tanu",
+      "email": "tanu@gmail.com",
+      "mobile": "9878457878",
+      "city": "pune",
+      "pincode": "454689",
+      "states": "maharstra"
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+span{
+    color:red
+}
+.contact_form {
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+    border-radius: 10px;
+    padding: 20px;
+    margin-top: 5px;
+    font-size: 14px;
+  }
